@@ -1,0 +1,50 @@
+Name : pulok
+ID   : 1011
+Marks:
+  Electrical Circuit - II : 56
+  Lab                     : 76
+  BCP                     : 66
+  Electronic - I          : 56
+Average : 63.5
+Grade   : C
+-----------------------------
+Name : pulok
+ID   : 1011
+Marks:
+  Electrical Circuit - II : 56
+  Lab                     : 66
+  BCP                     : 76
+  Electronic - I          : 57
+Average : 63.75
+Grade   : C
+-----------------------------
+Name : pulok
+ID   : 1011
+Marks:
+  Electrical Circuit - II : 56
+  Lab                     : 66
+  BCP                     : 77
+  Electronic - I          : 57
+Average : 64
+Grade   : C
+-----------------------------
+Name : vicky
+ID   : 1021
+Marks:
+  Electrical Circuit - II : 78
+  Lab                     : 56
+  BCP                     : 89
+  Electronic - I          : 67
+Average : 72.5
+Grade   : B
+-----------------------------
+Name : vicky nandy
+ID   : 0222310005131021
+Marks:
+  Electrical Circuit - II : 56
+  Lab                     : 82
+  BCP                     : 69
+  Electronic - I          : 63
+Average : 67.5
+Grade   : C
+-----------------------------

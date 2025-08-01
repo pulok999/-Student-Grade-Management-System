@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753806382 source:d:\oopee tuton sir\group_1_project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
